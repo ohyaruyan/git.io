@@ -1139,7 +1139,7 @@
   const bigBonusCnt = 10;
   const regBonusCnt = 5;
 
-  const kakuritsuTuzyo  = 20;
+  const kakuritsuTuzyo  = 200;
   const kakuritsuCme  = 25;
 
   const replayAtariS = 20;
